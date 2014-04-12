@@ -1,0 +1,11 @@
+# humanstxt.org
+# The humans responsible & technology colophon
+
+# TEAM
+	Andrew Robbins -- Creator -- arobbins@simpleblend.net
+
+# THANKS
+	TBD
+
+# TECHNOLOGY COLOPHON
+	MEAN Stack

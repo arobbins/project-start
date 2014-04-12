@@ -1,0 +1,22 @@
+# Mac
+.DS_Store
+
+# Sublime Text
+*.sublime-workspace
+sftp-config.json
+
+# Sass
+.sass-cache
+
+# Node
+logs
+*.log
+pids
+*.pid
+*.seed
+lib-cov
+build/Release
+node_modules # Comment this out when it comes time to deploy
+
+#Grunt
+.grunt
